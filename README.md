@@ -36,6 +36,8 @@ so you can examine the impact of the whole sequence of commands.
 
 Additionally, diagrams (animated step-by-step in PowerPoint) have been prepared to illustrate the flow and sequence of commands.
 
+Manuel 
+
 Enjoy!
 
 (Changed for class)
